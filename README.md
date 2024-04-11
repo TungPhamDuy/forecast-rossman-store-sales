@@ -3,7 +3,7 @@
 This is a personal project of Tung Pham in order to serve as the final project for the Data Mining course taken at the University of Economics and Law (VNU-HCM)_**
 
 **Describe the dataset:**
-  With a quick glimpse at the dataset, we could observe there are 2 main csv files included in, namely rossman_train and rossman_store. In the rossman_train file, there are 1,017,210 observations with 9 recorded attributes.
+  With a quick glimpse at the dataset, we could observe there are 2 main csv files included in, namely rossman_train and rossman_store. In the rossman_train file, there are 1,017,210 observations with 9 recorded attributes. 
   
   Data – Historical sales (rossman_train.csv file):
   -	Store: a unique id for each store
