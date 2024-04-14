@@ -5,7 +5,7 @@ This is a personal project of Tung Pham in order to serve as the final project f
 **Describe the dataset:**
   With a quick glimpse at the dataset, we could observe there are 2 main csv files included in, namely rossman_train and rossman_store. In the rossman_train file, there are 1,017,210 observations with 9 recorded attributes. 
   
-  Data – Historical sales (rossman_train.csv file):
+  Data – Historical sales (rossman_train.csv file): 
   -	Store: a unique id for each store
   -	DayOfWeek: the date of week in which the store sale information record (1 = Mon, 2 = Tues, 3 = Wed, 4 = Thur, 5 = Fri, 6 = Sat, 7 = Sun)
   -	Date: that date of recording store sale information
