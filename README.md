@@ -2,6 +2,8 @@
 **_License:
 This is a personal project of Tung Pham in order to serve as the final project for the Data Mining course taken at the University of Economics and Law (VNU-HCM)_**
 
+**Post for Udacity Data Scientist assignment 1 project:** https://medium.com/@phamduytung999/ever-wondered-how-drugstores-predict-their-daily-sales-for-weeks-in-advance-56acc52a446b 
+
 **Describe the dataset:**
   With a quick glimpse at the dataset, we could observe there are 2 main csv files included in, namely rossman_train and rossman_store. In the rossman_train file, there are 1,017,210 observations with 9 recorded attributes. 
   
