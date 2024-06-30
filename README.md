@@ -4,7 +4,24 @@ This is a personal project of Tung Pham in order to serve as the final project f
 
 **Post for Udacity Data Scientist assignment 1 project:** https://medium.com/@phamduytung999/ever-wondered-how-drugstores-predict-their-daily-sales-for-weeks-in-advance-56acc52a446b 
 
-**Dataset ak**
+**Libraries and requirements:** 
+   There are a requirements.txt file in the repository which need to be install before being able to run the script. Open JupyterNotebook and a cell and run:
+   '''
+   pip install -r requirements.txt
+   '''
+**Files in the repository:**
+'''
++---forecast-rossman-store-sales.ipynb (the main notebook)
++---Rossman Store Sales Forecast Document.pdf (a paper version of the notebook)
++---rossman dataset.rar
+|          rossman_store.csv (supplemental information about the stores)
+|          rossman_train.csv (historical data including Sales)
+|---LICENSE (license of the this repository)
+|---README.md (file readme.md)
+|---requirements.txt (contain libraries use in the notebook)
+'''
+
+**Dataset acknowledgment:**
    - Kaggle link of the dataset: https://www.kaggle.com/competitions/rossmann-store-sales/data
    - Source: Rossmann Corp
    - License: Subject to Competition Rules
@@ -41,3 +58,4 @@ With all this information, the task for us is to predict the sales of the Rossma
 
 **Natural of the case:**
   This dataset and problem represent a type of data, modeling and analysis which is called “Time series”. The dataset provided is a time series data, which is a collection of quantities that are assembled over even intervals in time and ordered chronologically, in this case, it’s the information about Rossman store sale situation over the given time period. And because data points in time series are collected at adjacent time periods, there is potential for correlation between observations. If the correlation between these observations exists, it could reveal hidden insights and enable deeper understanding of the situation for those who are responsible. The use of time series model and analysis could be for a variety of reasons: predicting future outcomes, understanding past outcomes, making policy suggestions, and much more. In this case to forecast Rossman sales for 6 weeks in advance. 
+
