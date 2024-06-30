@@ -6,11 +6,11 @@ This is a personal project of Tung Pham in order to serve as the final project f
 
 **Libraries and requirements:** 
    There are a requirements.txt file in the repository which need to be install before being able to run the script. Open JupyterNotebook and a cell and run:
-   '''
+   ```
    pip install -r requirements.txt
-   '''
+   ```
 **Files in the repository:**
-'''
+```
 +---forecast-rossman-store-sales.ipynb (the main notebook)
 +---Rossman Store Sales Forecast Document.pdf (a paper version of the notebook)
 +---rossman dataset.rar
@@ -19,7 +19,7 @@ This is a personal project of Tung Pham in order to serve as the final project f
 |---LICENSE (license of the this repository)
 |---README.md (file readme.md)
 |---requirements.txt (contain libraries use in the notebook)
-'''
+```
 
 **Dataset acknowledgment:**
    - Kaggle link of the dataset: https://www.kaggle.com/competitions/rossmann-store-sales/data
