@@ -4,6 +4,12 @@ This is a personal project of Tung Pham in order to serve as the final project f
 
 **Post for Udacity Data Scientist assignment 1 project:** https://medium.com/@phamduytung999/ever-wondered-how-drugstores-predict-their-daily-sales-for-weeks-in-advance-56acc52a446b 
 
+**Dataset ak**
+   - Kaggle link of the dataset: https://www.kaggle.com/competitions/rossmann-store-sales/data
+   - Source: Rossmann Corp
+   - License: Subject to Competition Rules
+   - Short description: The dataset is provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. The data ranges in which company provided constraint from 01/01/2013 to 31/07/2015 and is collected at a daily frequency, considered all the sale of all the stores available.
+
 **Describe the dataset:**
   With a quick glimpse at the dataset, we could observe there are 2 main csv files included in, namely rossman_train and rossman_store. In the rossman_train file, there are 1,017,210 observations with 9 recorded attributes. 
   
@@ -28,8 +34,6 @@ This is a personal project of Tung Pham in order to serve as the final project f
   -	Promo2: Promo2 is a continuting and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
   -	Promo2Since[Week/Year]: describes the calendar week and year when the store started participating in Promo2
   -	PromoInterval – describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g., “Feb,May,Aug,Nov” means each round starts in February, May, August, November of any given year for that store
-
-_The data ranges in which company provided constraint from 01/01/2013 to 31/07/2015 and is collected at a daily frequency, considered all the sale of all the stores available._
 
 **The problem statement:**
   Rossman operates over 3,000 drug stores in 7 European countries. Currently, Rossman store managers are tasked with predicting their daily sales for up to 6 weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. Historical sales data for 1,115 Rossmann stores are provided. 
